@@ -7,10 +7,14 @@ Armando Gomez
 
 
 2. How did you approach the problem? Consider why data structures are important to understand.
+
+   
 To tackle these problems effectively, I adopted an organized approach. My first step was to comprehend the problem statements, breaking them down into smaller subproblems. Additionally, I carefully considered the selection of data structures that would best suit the task at hand. The choice of data structures is crucial, as it directly affects how efficiently we can store, retrieve, and manipulate data. For instance, making the decision between arrays, linked lists, or trees can significantly impact the performance of an algorithm. Hence, my focus was on selecting data structures and devising algorithms with optimal time and space complexity.
 
 
 3. How did you overcome any roadblocks you encountered while going through the activities or project?
+
+
 During the course, I faced obstacles and hurdles. To overcome them, I took the approach of reviewing course work and seeking clarification whenever I didn't fully grasp concepts in my ebook. Whenever I encountered coding errors or unexpected outcomes, I followed a debugging process by utilizing print statements and debugging tools to identify and resolve each issue one by one. Furthermore, it was beneficial for me to regularly review the principles of data structures and algorithms, which helped strengthen my understanding and problem-solving abilities.
  
 
