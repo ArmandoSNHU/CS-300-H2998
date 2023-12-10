@@ -2,7 +2,8 @@
 Armando Gomez
 
 1.What was the problem you were solving in the projects for this course?
-In both Project One and Project Two, our main objective was to tackle issues concerning algorithmic design and data structures. In Project One, our task was to enhance a program for ABC University by creating pseudocode. The challenge we faced here was to come up with an algorithm that would cater to the specific requirements of the university. Moving on to Project 2, we took it up a notch by not only creating pseudocode but also implementing actual code to develop software for the university. This involved translating our designs into fully functional and efficient programs.
+
+  In both Project One and Project Two, our main objective was to tackle issues concerning algorithmic design and data structures. In Project One, our task was to enhance a program for ABC University by creating pseudocode. The challenge we faced here was to come up with an algorithm that would cater to the specific requirements of the university. Moving on to Project 2, we took it up a notch by not only creating pseudocode but also implementing actual code to develop software for the university. This involved translating our designs into fully functional and efficient programs.
 
 
 2. How did you approach the problem? Consider why data structures are important to understand.
